@@ -17,6 +17,10 @@ How to clone to local machine?
 
     - Create a clone request and then copy https: string
     - On the machine, go to your programmming source directory
-    - Issue command from command line git clone and then paste the copied string 
+    - Issue command from command line git clone and then paste the copied string
+    = edit changes and if you edit changes then
+    - git commit -m 'comments'
+    - get push  pushes the changes
 
+Let's see I think I got this correct 
 
