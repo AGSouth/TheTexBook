@@ -1,0 +1,22 @@
+1. Create a new repository
+   - remember to initialize the repository with a readme
+
+2. Create a new branch
+
+3. Make changes and commit
+
+4. Open a pull request reviews changes
+
+5. Create pull request
+
+6. Merge
+
+7. Delete branch
+
+How to clone to local machine?
+
+    - Create a clone request and then copy https: string
+    - On the machine, go to your programmming source directory
+    - Issue command from command line git clone and then paste the copied string 
+
+
